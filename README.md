@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left"><a href="https://github.com/Incrementis/Repository-INDEX-/wiki">Click me to see my statsistics</a></h3>
+<h3 align="left"><a href="https://github.com/Incrementis/Repository-INDEX-/wiki">Click here to see my stats</a></h3>
 
 <h3 align="left">and connect with me:</h3>
 <p align="left">
