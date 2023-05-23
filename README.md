@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/Incrementis/Incrementis/blob/main/github-header-image.png" alt="ERROR: Header image not found!">
+<!--<img src="https://github.com/Incrementis/Incrementis/blob/main/github-header-image.png" alt="ERROR: Header image not found!">-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
