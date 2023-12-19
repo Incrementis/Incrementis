@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <a href="https://dev.to/incrementis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCIJrCF5YoTS44nhkmHCjkgg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
+
+Quick-link [Repo-Index](https://github.com/Incrementis/Repository-INDEX-/wiki)
